@@ -15,9 +15,9 @@ To identify when a hand is grasping, lifting and replacing an object using EEG d
 -Each row is a time frame ( sampling rate = 500 Hz) i.e that means 500 time frame of 0.002 seconds are recorded each second.
 -Columns: 32 channels(Electrodes) + 6 Labels(Phases of the movement)
 -There are 12 subjects(Individuals) with 10 series per subject. Among these 10, 1-8 is used for training and 9-10 for testing.
-Signals
+###Signals
 ![ss2](https://user-images.githubusercontent.com/84126934/145025996-11e00f3c-0ecd-42bd-ac86-ad5de659b559.png)
-Labels
+###Labels
 ![ss1](https://user-images.githubusercontent.com/84126934/145026798-8dc7eb32-0211-4a3b-8afc-2b6d6166a1cf.png)
 
 ## References
